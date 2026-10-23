@@ -1,0 +1,7 @@
+Action is print "hello world"
+
+Action is create_file "example.txt"
+
+Action is open_url "https://google.com"
+
+Action is calculate "2 + 2"
