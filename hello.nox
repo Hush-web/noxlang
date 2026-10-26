@@ -1,0 +1,12 @@
+Agent is Researcher
+Use LLM
+Model is llama-3.1-8b-instant
+
+Action is scrape_webpage "https://punchng.com"
+Save result as news
+
+Action is think "summarize {news} in just 3 headlines"
+
+Save result as summarized
+
+Action is create_file {summarized}
