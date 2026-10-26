@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='noxlang',
-    version='1.0.5', 
+    version='2.0.0', 
     description='A plain English automation and AI agent language.',
     author='Adebayo Ayomide Stephen',
     author_email='adebayo2001ayomide@gmail.com',
